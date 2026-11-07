@@ -1,0 +1,220 @@
+[
+  {
+    "question": "How do I get from Rithala to Huda City Centre?",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "Rithala",
+    "dst": "Millennium City Centre Gurugram"
+  },
+  {
+    "question": "Fastest way from Rajiv Chowk to Dwarka?",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "Rajiv Chowk",
+    "dst": "Dwarka"
+  },
+  {
+    "question": "What's the fare from AIIMS to Noida City Centre?",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "AIIMS",
+    "dst": "Noida City Centre"
+  },
+  {
+    "question": "Route from Kashmere Gate to Hauz Khas with the fewest changes",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "Kashmere Gate",
+    "dst": "Hauz Khas"
+  },
+  {
+    "question": "how long does it take from chandni chowk to vaishali",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "Chandni Chowk",
+    "dst": "Vaishali"
+  },
+  {
+    "question": "Janakpuri West to Botanical Garden, which line do I take?",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "Janakpuri West",
+    "dst": "Botanical Garden"
+  },
+  {
+    "question": "Going from Saket to Lajpat Nagar, how many interchanges?",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "Saket",
+    "dst": "Lajpat Nagar"
+  },
+  {
+    "question": "Nehru Place to Central Secretariat please",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "Nehru Place",
+    "dst": "Central Secretariat"
+  },
+  {
+    "question": "Take me from New Delhi to Welcome",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "New Delhi",
+    "dst": "Welcome"
+  },
+  {
+    "question": "cp to hauz khas",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "Rajiv Chowk",
+    "dst": "Hauz Khas"
+  },
+  {
+    "question": "Shahdara to Karol Bagh fastest",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "Shahdara",
+    "dst": "Karol Bagh"
+  },
+  {
+    "question": "Mandi House to Akshardham, any change needed?",
+    "expected_tools": [
+      "get_shortest_route"
+    ],
+    "src": "Mandi House",
+    "dst": "Akshardham"
+  },
+  {
+    "question": "What are the current Delhi Metro fare slabs?",
+    "expected_tools": [
+      "search_dmrc_info"
+    ]
+  },
+  {
+    "question": "Is there a discount if I use a smart card?",
+    "expected_tools": [
+      "search_dmrc_info"
+    ]
+  },
+  {
+    "question": "When is the off-peak discount applicable?",
+    "expected_tools": [
+      "search_dmrc_info"
+    ]
+  },
+  {
+    "question": "How heavy can my luggage be in the metro?",
+    "expected_tools": [
+      "search_dmrc_info"
+    ]
+  },
+  {
+    "question": "Can I carry a pet on the metro?",
+    "expected_tools": [
+      "search_dmrc_info"
+    ]
+  },
+  {
+    "question": "Which items are prohibited inside the metro?",
+    "expected_tools": [
+      "search_dmrc_info"
+    ]
+  },
+  {
+    "question": "Are fares different on Sundays?",
+    "expected_tools": [
+      "search_dmrc_info"
+    ]
+  },
+  {
+    "question": "Which coach is reserved for women?",
+    "expected_tools": [
+      "search_dmrc_info"
+    ]
+  },
+  {
+    "question": "What time does the Airport Express Line start running?",
+    "expected_tools": [
+      "search_dmrc_info"
+    ]
+  },
+  {
+    "question": "How often do trains run during peak hours?",
+    "expected_tools": [
+      "search_dmrc_info"
+    ]
+  },
+  {
+    "question": "Which lines pass through Kashmere Gate?",
+    "expected_tools": [
+      "search_station_info"
+    ]
+  },
+  {
+    "question": "Is Rajiv Chowk an interchange station?",
+    "expected_tools": [
+      "search_station_info"
+    ]
+  },
+  {
+    "question": "What stations are next to Hauz Khas?",
+    "expected_tools": [
+      "search_station_info"
+    ]
+  },
+  {
+    "question": "What are the coordinates of AIIMS station?",
+    "expected_tools": [
+      "search_station_info"
+    ]
+  },
+  {
+    "question": "Which lines serve Netaji Subhash Place?",
+    "expected_tools": [
+      "search_station_info"
+    ]
+  },
+  {
+    "question": "Is Dilli Haat-INA an interchange?",
+    "expected_tools": [
+      "search_station_info"
+    ]
+  },
+  {
+    "question": "Route from Rajiv Chowk to Dwarka and how much luggage can I take?",
+    "expected_tools": [
+      "get_shortest_route",
+      "search_dmrc_info"
+    ],
+    "src": "Rajiv Chowk",
+    "dst": "Dwarka"
+  },
+  {
+    "question": "Fastest way from Saket to Chandni Chowk, and is there a smart card discount?",
+    "expected_tools": [
+      "get_shortest_route",
+      "search_dmrc_info"
+    ],
+    "src": "Saket",
+    "dst": "Chandni Chowk"
+  },
+  {
+    "question": "What's the capital of France?",
+    "expected_tools": []
+  },
+  {
+    "question": "Write me a poem about the metro.",
+    "expected_tools": []
+  }
+]

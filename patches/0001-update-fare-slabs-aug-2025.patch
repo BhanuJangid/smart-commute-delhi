@@ -1,0 +1,35 @@
+diff --git a/src/router.cpp b/src/router.cpp
+index 51494cd..338113a 100644
+--- a/src/router.cpp
++++ b/src/router.cpp
+@@ -42,14 +42,14 @@ struct PQItem {
+ Router::Router(const MetroNetwork& network) : network_(network) {}
+ 
+ int Router::fare(int hops) const {
+-    // DMRC distance slabs approximated at ~1.2 km per hop.
++    // DMRC distance slabs (effective 25 Aug 2025) approximated at ~1.2 km per hop.
+     const double km = std::max(0, hops) * 1.2;
+-    if (km <= 2) return 10;
+-    if (km <= 5) return 20;
+-    if (km <= 12) return 30;
+-    if (km <= 21) return 40;
+-    if (km <= 32) return 50;
+-    return 60;
++    if (km <= 2) return 11;
++    if (km <= 5) return 21;
++    if (km <= 12) return 32;
++    if (km <= 21) return 43;
++    if (km <= 32) return 54;
++    return 64;
+ }
+ 
+ RouteResult Router::find(const std::string& from_id, const std::string& to_id, RouteMode mode) const {
+@@ -58,7 +58,7 @@ RouteResult Router::find(const std::string& from_id, const std::string& to_id, R
+         result.found = true;
+         result.hops.push_back({from_id, ""});
+         result.stations_count = 1;
+-        result.fare_inr = 10;
++        result.fare_inr = 11;
+         return result;
+     }
+ 

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "RI",
+    "text": "Rithala",
+    "Latitude": 28.7208,
+    "Longitude": 77.1072
+  },
+  {
+    "id": "RHW",
+    "text": "Rohini West",
+    "Latitude": 28.7149,
+    "Longitude": 77.1155
+  },
+  {
+    "id": "RHE",
+    "text": "Rohini East",
+    "Latitude": 28.7077,
+    "Longitude": 77.1259
+  },
+  {
+    "id": "PTP",
+    "text": "Pitampura",
+    "Latitude": 28.7031,
+    "Longitude": 77.1325
+  },
+  {
+    "id": "KE",
+    "text": "Kohat Enclave",
+    "Latitude": 28.698,
+    "Longitude": 77.1405
+  },
+  {
+    "id": "NSHP",
+    "text": "Netaji Subhash Place",
+    "Latitude": 28.696,
+    "Longitude": 77.1526
+  },
+  {
+    "id": "KP",
+    "text": "Keshav Puram",
+    "Latitude": 28.6876,
+    "Longitude": 77.1625
+  },
+  {
+    "id": "KN",
+    "text": "Kanhaiya Nagar",
+    "Latitude": 28.6824,
+    "Longitude": 77.1648
+  },
+  {
+    "id": "ILOK",
+    "text": "Inderlok",
+    "Latitude": 28.6736,
+    "Longitude": 77.1703
+  },
+  {
+    "id": "SHT",
+    "text": "Shastri Nagar",
+    "Latitude": 28.6701,
+    "Longitude": 77.1813
+  },
+  {
+    "id": "PRA",
+    "text": "Pratap Nagar",
+    "Latitude": 28.6666,
+    "Longitude": 77.1989
+  },
+  {
+    "id": "PBGH",
+    "text": "Pulbangash",
+    "Latitude": 28.6664,
+    "Longitude": 77.2074
+  },
+  {
+    "id": "TZI",
+    "text": "Tis Hazari",
+    "Latitude": 28.6671,
+    "Longitude": 77.2165
+  },
+  {
+    "id": "KG",
+    "text": "Kashmere Gate",
+    "Latitude": 28.6675,
+    "Longitude": 77.2282
+  },
+  {
+    "id": "SHPK",
+    "text": "Shastri Park",
+    "Latitude": 28.6683,
+    "Longitude": 77.2503
+  },
+  {
+    "id": "SLAP",
+    "text": "Seelampur",
+    "Latitude": 28.6699,
+    "Longitude": 77.2666
+  },
+  {
+    "id": "WC",
+    "text": "Welcome",
+    "Latitude": 28.6718,
+    "Longitude": 77.2777
+  },
+  {
+    "id": "SHD",
+    "text": "Shahdara",
+    "Latitude": 28.6735,
+    "Longitude": 77.2899
+  },
+  {
+    "id": "MPK",
+    "text": "Mansarovar Park",
+    "Latitude": 28.6756,
+    "Longitude": 77.3001
+  },
+  {
+    "id": "JLML",
+    "text": "Jhilmil",
+    "Latitude": 28.6758,
+    "Longitude": 77.3124
+  },
+  {
+    "id": "DSG",
+    "text": "Dilshad Garden",
+    "Latitude": 28.6759,
+    "Longitude": 77.3215
+  },
+  {
+    "id": "SHDN",
+    "text": "Shaheed Nagar",
+    "Latitude": 28.6766,
+    "Longitude": 77.3338
+  },
+  {
+    "id": "RJBH",
+    "text": "Raj Bagh",
+    "Latitude": 28.6808,
+    "Longitude": 77.3439
+  },
+  {
+    "id": "RJNM",
+    "text": "Rajendra Nagar",
+    "Latitude": 28.6776,
+    "Longitude": 77.3581
+  },
+  {
+    "id": "SMPK",
+    "text": "Shyam Park",
+    "Latitude": 28.6782,
+    "Longitude": 77.3702
+  },
+  {
+    "id": "MNGM",
+    "text": "Mohan Nagar",
+    "Latitude": 28.6785,
+    "Longitude": 77.3839
+  },
+  {
+    "id": "ATHA",
+    "text": "Arthala",
+    "Latitude": 28.6729,
+    "Longitude": 77.3917
+  },
+  {
+    "id": "HDNR",
+    "text": "Hindon River",
+    "Latitude": 28.6734,
+    "Longitude": 77.4065
+  },
+  {
+    "id": "NBAA",
+    "text": "Shaheed Sthal (New Bus Adda)",
+    "Latitude": 28.6705,
+    "Longitude": 77.4158
+  },
+  {
+    "id": "SPBI",
+    "text": "Samaypur Badli",
+    "Latitude": 28.7446,
+    "Longitude": 77.1383
+  },
+  {
+    "id": "RISE",
+    "text": "Rohini Sector - 18,19",
+    "Latitude": 28.7327,
+    "Longitude": 77.1341
+  },
+  {
+    "id": "BIMR",
+    "text": "Haiderpur Badli Mor",
+    "Latitude": 28.73,
+    "Longitude": 77.1492
+  },
+  {
+    "id": "JGPI",
+    "text": "JahangirPuri",
+    "Latitude": 28.7296,
+    "Longitude": 77.1666
+  },
+  {
+    "id": "AHNR",
+    "text": "Adarsh Nagar",
+    "Latitude": 28.7144,
+    "Longitude": 77.1669
+  },
+  {
+    "id": "AZU",
+    "text": "Azadpur",
+    "Latitude": 28.707,
+    "Longitude": 77.1807
+  },
+  {
+    "id": "MDTW",
+    "text": "Model Town",
+    "Latitude": 28.7029,
+    "Longitude": 77.1937
+  },
+  {
+    "id": "GTBR",
+    "text": "Guru Teg Bahadur Nagar",
+    "Latitude": 28.6984,
+    "Longitude": 77.2059
+  },
+  {
+    "id": "VW",
+    "text": "Vishwavidyalaya",
+    "Latitude": 28.6952,
+    "Longitude": 77.2145
+  },
+  {
+    "id": "VS",
+    "text": "Vidhan Sabha",
+    "Latitude": 28.6878,
+    "Longitude": 77.2216
+  },
+  {
+    "id": "CL",
+    "text": "Civil Lines",
+    "Latitude": 28.6773,
+    "Longitude": 77.2248
+  },
+  {
+    "id": "CHK",
+    "text": "Chandni Chowk",
+    "Latitude": 28.6588,
+    "Longitude": 77.2304
+  },
+  {
+    "id": "CWBR",
+    "text": "Chawri Bazar",
+    "Latitude": 28.6488,
+    "Longitude": 77.2263
+  },
+  {
+    "id": "NDI",
+    "text": "New Delhi",
+    "Latitude": 28.6427,
+    "Longitude": 77.2199
+  },
+  {
+    "id": "RCK",
+    "text": "Rajiv Chowk",
+    "Latitude": 28.633,
+    "Longitude": 77.2194
+  },
+  {
+    "id": "PTCK",
+    "text": "Patel Chowk",
+    "Latitude": 28.6233,
+    "Longitude": 77.2145
+  },
+  {
+    "id": "CTST",
+    "text": "Central Secretariat",
+    "Latitude": 28.6152,
+    "Longitude": 77.2123
+  },
+  {
+    "id": "UDB",
+    "text": "Udyog Bhawan",
+    "Latitude": 28.611,
+    "Longitude": 77.2122
+  },
+  {
+    "id": "LKM",
+    "text": "Lok Kalyan Marg",
+    "Latitude": 28.5977,
+    "Longitude": 77.2112
+  },
+  {
+    "id": "JB",
+    "text": "Jor Bagh",
+    "Latitude": 28.5859,
+    "Longitude": 77.2125
+  },
+  {
+    "id": "INA",
+    "text": "Dilli Haat-INA",
+    "Latitude": 28.5744,
+    "Longitude": 77.2096
+  },
+  {
+    "id": "AIIMS",
+    "text": "AIIMS",
+    "Latitude": 28.5668,
+    "Longitude": 77.2081
+  },
+  {
+    "id": "GNPK",
+    "text": "Green Park",
+    "Latitude": 28.5598,
+    "Longitude": 77.2068
+  },
+  {
+    "id": "HKS",
+    "text": "Hauz Khas",
+    "Latitude": 28.544,
+    "Longitude": 77.2062
+  },
+  {
+    "id": "MVNR",
+    "text": "Malviya Nagar",
+    "Latitude": 28.529,
+    "Longitude": 77.205
+  },
+  {
+    "id": "SAKT",
+    "text": "Saket",
+    "Latitude": 28.5211,
+    "Longitude": 77.2022
+  },
+  {
+    "id": "QM",
+    "text": "Qutab Minar",
+    "Latitude": 28.5129,
+    "Longitude": 77.1863
+  },
+  {
+    "id": "CHTP",
+    "text": "Chhatarpur",
+    "Latitude": 28.5068,
+    "Longitude": 77.175
+  },
+  {
+    "id": "SLTP",
+    "text": "Sultanpur",
+    "Latitude": 28.4991,
+    "Longitude": 77.1612
+  },
+  {
+    "id": "GTNI",
+    "text": "Ghitorni",
+    "Latitude": 28.4938,
+    "Longitude": 77.1492
+  },
+  {
+    "id": "AJG",
+    "text": "Arjan Garh",
+    "Latitude": 28.4809,
+    "Longitude": 77.1259
+  },
+  {
+    "id": "GE",
+    "text": "Guru Dronacharya",
+    "Latitude": 28.4819,
+    "Longitude": 77.1023
+  },
+  {
+    "id": "SKRP",
+    "text": "Sikanderpur",
+    "Latitude": 28.4813,
+    "Longitude": 77.0931
+  },
+  {
+    "id": "MGRO",
+    "text": "M.G. Road",
+    "Latitude": 28.4796,
+    "Longitude": 77.0801
+  },
+  {
+    "id": "IFOC",
+    "text": "IFFCO Chowk",
+    "Latitude": 28.4722,
+    "Longitude": 77.0724
+  },
+  {
+    "id": "HCC",
+    "text": "Millennium City Centre Gurugram",
+    "Latitude": 28.4592,
+    "Longitude": 77.0725
+  },
+  {
+    "id": "DSTO",
+    "text": "Dwarka Sector - 21",
+    "Latitude": 28.5522,
+    "Longitude": 77.0583
+  },
+  {
+    "id": "DSET",
+    "text": "Dwarka Sector - 8",
+    "Latitude": 28.5657,
+    "Longitude": 77.0671
+  },
+  {
+    "id": "DSN",
+    "text": "Dwarka Sector - 9",
+    "Latitude": 28.5743,
+    "Longitude": 77.0653
+  },
+  {
+    "id": "DST",
+    "text": "Dwarka Sector - 10",
+    "Latitude": 28.5811,
+    "Longitude": 77.0575
+  },
+  {
+    "id": "DSE",
+    "text": "Dwarka Sector - 11",
+    "Latitude": 28.5864,
+    "Longitude": 77.0497
+  },
+  {
+    "id": "DSW",
+    "text": "Dwarka Sector - 12",
+    "Latitude": 28.5955,
+    "Longitude": 77.0417
+  },
+  {
+    "id": "DSTN",
+    "text": "Dwarka Sector - 13",
+    "Latitude": 28.5972,
+    "Longitude": 77.0333
+  },
+  {
+    "id": "DSFN",
+    "text": "Dwarka Sector - 14",
+    "Latitude": 28.6022,
+    "Longitude": 77.0259
+  },
+  {
+    "id": "DW",
+    "text": "Dwarka",
+    "Latitude": 28.6149,
+    "Longitude": 77.0227
+  },
+  {
+    "id": "DM",
+    "text": "Dwarka Mor",
+    "Latitude": 28.6218,
+    "Longitude": 77.0411
+  },
+  {
+    "id": "NWD",
+    "text": "Nawada",
+    "Latitude": 28.6202,
+    "Longitude": 77.045
+  },
+  {
+    "id": "UNW",
+    "text": "Uttam Nagar West",
+    "Latitude": 28.6218,
+    "Longitude": 77.0558
+  },
+  {
+    "id": "UNE",
+    "text": "Uttam Nagar East",
+    "Latitude": 28.6248,
+    "Longitude": 77.0653
+  },
+  {
+    "id": "JPW",
+    "text": "Janakpuri West",
+    "Latitude": 28.6295,
+    "Longitude": 77.0778
+  },
+  {
+    "id": "JPE",
+    "text": "Janakpuri East",
+    "Latitude": 28.6328,
+    "Longitude": 77.0862
+  },
+  {
+    "id": "TN",
+    "text": "Tilak Nagar",
+    "Latitude": 28.6366,
+    "Longitude": 77.0965
+  },
+  {
+    "id": "SN",
+    "text": "Subhash Nagar",
+    "Latitude": 28.6404,
+    "Longitude": 77.1049
+  },
+  {
+    "id": "TG",
+    "text": "Tagore Garden",
+    "Latitude": 28.6438,
+    "Longitude": 77.1129
+  },
+  {
+    "id": "RG",
+    "text": "Rajouri Garden",
+    "Latitude": 28.649,
+    "Longitude": 77.1227
+  },
+  {
+    "id": "RN",
+    "text": "Ramesh Nagar",
+    "Latitude": 28.6527,
+    "Longitude": 77.1315
+  },
+  {
+    "id": "MN",
+    "text": "Moti Nagar",
+    "Latitude": 28.6579,
+    "Longitude": 77.1427
+  },
+  {
+    "id": "KNR",
+    "text": "Kirti Nagar",
+    "Latitude": 28.6557,
+    "Longitude": 77.1508
+  },
+  {
+    "id": "SP",
+    "text": "Shadipur",
+    "Latitude": 28.6516,
+    "Longitude": 77.1582
+  },
+  {
+    "id": "PN",
+    "text": "Patel Nagar",
+    "Latitude": 28.645,
+    "Longitude": 77.1693
+  },
+  {
+    "id": "RP",
+    "text": "Rajendra Place",
+    "Latitude": 28.6425,
+    "Longitude": 77.1782
+  },
+  {
+    "id": "KB",
+    "text": "Karol Bagh",
+    "Latitude": 28.644,
+    "Longitude": 77.1885
+  },
+  {
+    "id": "JW",
+    "text": "Jhandewalan",
+    "Latitude": 28.6443,
+    "Longitude": 77.1999
+  },
+  {
+    "id": "RKAM",
+    "text": "Ramakrishna Ashram Marg",
+    "Latitude": 28.6392,
+    "Longitude": 77.2086
+  },
+  {
+    "id": "BRKR",
+    "text": "Barakhamba Road",
+    "Latitude": 28.6299,
+    "Longitude": 77.2245
+  },
+  {
+    "id": "MDHS",
+    "text": "Mandi House",
+    "Latitude": 28.6259,
+    "Longitude": 77.2343
+  },
+  {
+    "id": "PTMD",
+    "text": "Supreme Court",
+    "Latitude": 28.6233,
+    "Longitude": 77.2427
+  },
+  {
+    "id": "IDPT",
+    "text": "Indraprastha",
+    "Latitude": 28.6206,
+    "Longitude": 77.25
+  },
+  {
+    "id": "YB",
+    "text": "Yamuna Bank",
+    "Latitude": 28.6233,
+    "Longitude": 77.2679
+  },
+  {
+    "id": "ASDM",
+    "text": "Akshardham",
+    "Latitude": 28.618,
+    "Longitude": 77.2794
+  },
+  {
+    "id": "MVP1",
+    "text": "Mayur Vihar-1",
+    "Latitude": 28.6042,
+    "Longitude": 77.2896
+  },
+  {
+    "id": "MVE",
+    "text": "Mayur Vihar Extension",
+    "Latitude": 28.5928,
+    "Longitude": 77.2947
+  },
+  {
+    "id": "NAGR",
+    "text": "New Ashok Nagar",
+    "Latitude": 28.5892,
+    "Longitude": 77.3021
+  },
+  {
+    "id": "NSFT",
+    "text": "Noida Sec-15",
+    "Latitude": 28.5851,
+    "Longitude": 77.3116
+  },
+  {
+    "id": "NSST",
+    "text": "Noida Sec-16",
+    "Latitude": 28.5787,
+    "Longitude": 77.3174
+  },
+  {
+    "id": "NSET",
+    "text": "Noida Sec-18",
+    "Latitude": 28.5708,
+    "Longitude": 77.3262
+  },
+  {
+    "id": "BCGN",
+    "text": "Botanical Garden",
+    "Latitude": 28.564,
+    "Longitude": 77.3343
+  },
+  {
+    "id": "GEC",
+    "text": "Golf Course",
+    "Latitude": 28.5672,
+    "Longitude": 77.346
+  },
+  {
+    "id": "NCC",
+    "text": "Noida City Centre",
+    "Latitude": 28.5747,
+    "Longitude": 77.356
+  },
+  {
+    "id": "STFN",
+    "text": "Sector-34 Noida",
+    "Latitude": 28.5801,
+    "Longitude": 77.3635
+  },
+  {
+    "id": "SFTN",
+    "text": "Sec-52 Noida",
+    "Latitude": 28.5867,
+    "Longitude": 77.3728
+  },
+  {
+    "id": "SSON",
+    "text": "Sec-61 Noida",
+    "Latitude": 28.5976,
+    "Longitude": 77.3701
+  },
+  {
+    "id": "SFNN",
+    "text": "Sec-59 Noida",
+    "Latitude": 28.6064,
+    "Longitude": 77.3731
+  },
+  {
+    "id": "SSTN",
+    "text": "Sec-62 Noida",
+    "Latitude": 28.617,
+    "Longitude": 77.3736
+  },
+  {
+    "id": "NECC",
+    "text": "Noida Electronic City",
+    "Latitude": 28.6279,
+    "Longitude": 77.3749
+  },
+  {
+    "id": "LN",
+    "text": "Laxmi Nagar",
+    "Latitude": 28.6305,
+    "Longitude": 77.2773
+  },
+  {
+    "id": "NV",
+    "text": "Nirman Vihar",
+    "Latitude": 28.6366,
+    "Longitude": 77.2868
+  },
+  {
+    "id": "PTVR",
+    "text": "Preet Vihar",
+    "Latitude": 28.6419,
+    "Longitude": 77.2956
+  },
+  {
+    "id": "KKDA",
+    "text": "Karkarduma",
+    "Latitude": 28.6485,
+    "Longitude": 77.3056
+  },
+  {
+    "id": "AVIT",
+    "text": "Anand Vihar I.S.B.T",
+    "Latitude": 28.647,
+    "Longitude": 77.3159
+  },
+  {
+    "id": "KSHI",
+    "text": "Kaushambi",
+    "Latitude": 28.6455,
+    "Longitude": 77.3244
+  },
+  {
+    "id": "VASI",
+    "text": "Vaishali",
+    "Latitude": 28.6498,
+    "Longitude": 77.3397
+  },
+  {
+    "id": "CIPK",
+    "text": "Brig. Hoshiar Singh",
+    "Latitude": 28.6973662,
+    "Longitude": 76.9187353
+  },
+  {
+    "id": "BUSS",
+    "text": "Bahadurgarh City",
+    "Latitude": 28.6906885,
+    "Longitude": 76.9352146
+  },
+  {
+    "id": "MIEE",
+    "text": "Pandit Shree Ram Sharma",
+    "Latitude": 28.6892418,
+    "Longitude": 76.9489583
+  },
+  {
+    "id": "TKBR",
+    "text": "Tikri Border",
+    "Latitude": 28.688233,
+    "Longitude": 76.9620993
+  },
+  {
+    "id": "TKLM",
+    "text": "Tikri Kalan",
+    "Latitude": 28.68688,
+    "Longitude": 76.9750813
+  },
+  {
+    "id": "GHEM",
+    "text": "Ghevra Metro Station",
+    "Latitude": 28.6853835,
+    "Longitude": 76.9949917
+  },
+  {
+    "id": "MIAA",
+    "text": "Mundka Industrial Area (MIA)",
+    "Latitude": 28.6822749,
+    "Longitude": 77.0146522
+  },
+  {
+    "id": "MUDK",
+    "text": "Mundka",
+    "Latitude": 28.68239,
+    "Longitude": 77.0281513
+  },
+  {
+    "id": "RDPK",
+    "text": "Rajdhani Park",
+    "Latitude": 28.6822794,
+    "Longitude": 77.0418183
+  },
+  {
+    "id": "NRSN",
+    "text": "Nangloi Railway Station",
+    "Latitude": 28.682133,
+    "Longitude": 77.0540313
+  },
+  {
+    "id": "NNOI",
+    "text": "Nangloi",
+    "Latitude": 28.681984,
+    "Longitude": 77.0616903
+  },
+  {
+    "id": "SMSM",
+    "text": "Maharaja Surajmal Stadium",
+    "Latitude": 28.68182,
+    "Longitude": 77.0717713
+  },
+  {
+    "id": "UNRG",
+    "text": "Udyog Nagar",
+    "Latitude": 28.6810606,
+    "Longitude": 77.0787957
+  },
+  {
+    "id": "PAGI",
+    "text": "Peeragarhi",
+    "Latitude": 28.6798828,
+    "Longitude": 77.0910404
+  },
+  {
+    "id": "PVW",
+    "text": "Paschim Vihar West",
+    "Latitude": 28.678829,
+    "Longitude": 77.0994732
+  },
+  {
+    "id": "PVE",
+    "text": "Paschim Vihar East",
+    "Latitude": 28.6773312,
+    "Longitude": 77.1101289
+  },
+  {
+    "id": "MAPR",
+    "text": "Madipur",
+    "Latitude": 28.67634,
+    "Longitude": 77.1175513
+  },
+  {
+    "id": "SHVP",
+    "text": "Shivaji Park",
+    "Latitude": 28.674939,
+    "Longitude": 77.1283933
+  },
+  {
+    "id": "PBGW",
+    "text": "Punjabi Bagh West",
+    "Latitude": 28.6727751,
+    "Longitude": 77.136418
+  },
+  {
+    "id": "PBGA",
+    "text": "Punjabi Bagh",
+    "Latitude": 28.6729291,
+    "Longitude": 77.1438705
+  },
+  {
+    "id": "APMN",
+    "text": "Ashok Park Main",
+    "Latitude": 28.6715791,
+    "Longitude": 77.1552039
+  },
+  {
+    "id": "SRSM",
+    "text": "Satguru Ram Singh Marg",
+    "Latitude": 28.66213,
+    "Longitude": 77.1554713
+  },
+  {
+    "id": "LLQA",
+    "text": "Lal Quila",
+    "Latitude": 28.6577564,
+    "Longitude": 77.2347368
+  },
+  {
+    "id": "JAMD",
+    "text": "Jama Masjid",
+    "Latitude": 28.6504603,
+    "Longitude": 77.2362374
+  },
+  {
+    "id": "DLIG",
+    "text": "Delhi Gate",
+    "Latitude": 28.640061,
+    "Longitude": 77.2386843
+  },
+  {
+    "id": "ITO",
+    "text": "ITO",
+    "Latitude": 28.6278305,
+    "Longitude": 77.240214
+  },
+  {
+    "id": "JNPH",
+    "text": "Janpath",
+    "Latitude": 28.625061,
+    "Longitude": 77.2169953
+  },
+  {
+    "id": "KM",
+    "text": "Khan Market",
+    "Latitude": 28.6009531,
+    "Longitude": 77.2252085
+  },
+  {
+    "id": "JLNS",
+    "text": "JLN Stadium",
+    "Latitude": 28.587146,
+    "Longitude": 77.2310163
+  },
+  {
+    "id": "JGPA",
+    "text": "Jangpura",
+    "Latitude": 28.583698,
+    "Longitude": 77.2362473
+  },
+  {
+    "id": "LJPN",
+    "text": "Lajpat Nagar",
+    "Latitude": 28.5706249,
+    "Longitude": 77.2342561
+  },
+  {
+    "id": "MLCD",
+    "text": "Moolchand",
+    "Latitude": 28.5647817,
+    "Longitude": 77.2309781
+  },
+  {
+    "id": "KHCY",
+    "text": "Kailash Colony",
+    "Latitude": 28.55554,
+    "Longitude": 77.2394585
+  },
+  {
+    "id": "NP",
+    "text": "Nehru Place",
+    "Latitude": 28.5514171,
+    "Longitude": 77.2506607
+  },
+  {
+    "id": "KJMD",
+    "text": "Kalkaji Mandir",
+    "Latitude": 28.54945,
+    "Longitude": 77.2570313
+  },
+  {
+    "id": "GDPI",
+    "text": "Govind Puri",
+    "Latitude": 28.5446117,
+    "Longitude": 77.261992
+  },
+  {
+    "id": "HNOK",
+    "text": "Harkesh Nagar Okhla",
+    "Latitude": 28.5429658,
+    "Longitude": 77.273094
+  },
+  {
+    "id": "JLA",
+    "text": "Jasola Apollo",
+    "Latitude": 28.5382066,
+    "Longitude": 77.2811108
+  },
+  {
+    "id": "STVR",
+    "text": "Sarita Vihar",
+    "Latitude": 28.5294337,
+    "Longitude": 77.2861724
+  },
+  {
+    "id": "METE",
+    "text": "Mohan Estate",
+    "Latitude": 28.514454,
+    "Longitude": 77.2902056
+  },
+  {
+    "id": "TKDS",
+    "text": "Tughlakabad Station",
+    "Latitude": 28.5031672,
+    "Longitude": 77.2963205
+  },
+  {
+    "id": "BAPB",
+    "text": "Badarpur Border",
+    "Latitude": 28.49325,
+    "Longitude": 77.3007813
+  },
+  {
+    "id": "SRAI",
+    "text": "Sarai",
+    "Latitude": 28.4780481,
+    "Longitude": 77.3028175
+  },
+  {
+    "id": "NHPC",
+    "text": "NHPC Chowk",
+    "Latitude": 28.4576694,
+    "Longitude": 77.3047513
+  },
+  {
+    "id": "MMJR",
+    "text": "Mewala Maharajpur",
+    "Latitude": 28.4484907,
+    "Longitude": 77.3054333
+  },
+  {
+    "id": "STTA",
+    "text": "Sector-28",
+    "Latitude": 28.43838,
+    "Longitude": 77.3067493
+  },
+  {
+    "id": "BKMR",
+    "text": "Badkal Mor",
+    "Latitude": 28.4228115,
+    "Longitude": 77.3079462
+  },
+  {
+    "id": "OFDB",
+    "text": "Old Faridabad",
+    "Latitude": 28.4102041,
+    "Longitude": 77.3086392
+  },
+  {
+    "id": "NCAJ",
+    "text": "Neelam Chowk Ajronda",
+    "Latitude": 28.3976537,
+    "Longitude": 77.3101607
+  },
+  {
+    "id": "BACH",
+    "text": "Bata Chowk",
+    "Latitude": 28.385109,
+    "Longitude": 77.3113603
+  },
+  {
+    "id": "ECMJ",
+    "text": "Ecorts Mujesar",
+    "Latitude": 28.37016,
+    "Longitude": 77.31494
+  },
+  {
+    "id": "NCBC",
+    "text": "Sant Surdas (Sihi)",
+    "Latitude": 28.354673,
+    "Longitude": 77.3140293
+  },
+  {
+    "id": "BVHM",
+    "text": "Raja Nahar Singh(Ballabgarh)",
+    "Latitude": 28.3397812,
+    "Longitude": 77.316603
+  },
+  {
+    "id": "MKPR",
+    "text": "Majlis Park",
+    "Latitude": 28.724167,
+    "Longitude": 77.1805273
+  },
+  {
+    "id": "SMBG",
+    "text": "Shalimar Bagh",
+    "Latitude": 28.702018,
+    "Longitude": 77.1625815
+  },
+  {
+    "id": "SAKP",
+    "text": "Shakurpur",
+    "Latitude": 28.6857703,
+    "Longitude": 77.1474327
+  },
+  {
+    "id": "ESIH",
+    "text": "ESI-Basaidarapur",
+    "Latitude": 28.6582712,
+    "Longitude": 77.1252019
+  },
+  {
+    "id": "MYPI",
+    "text": "Mayapuri",
+    "Latitude": 28.637099,
+    "Longitude": 77.1275523
+  },
+  {
+    "id": "NAVR",
+    "text": "Naraina Vihar",
+    "Latitude": 28.624125,
+    "Longitude": 77.1342993
+  },
+  {
+    "id": "DLIC",
+    "text": "Delhi Cantt",
+    "Latitude": 28.6086915,
+    "Longitude": 77.1382338
+  },
+  {
+    "id": "DDSC",
+    "text": "Durgabai Deshmukh South Campus",
+    "Latitude": 28.58938,
+    "Longitude": 77.1673313
+  },
+  {
+    "id": "SVMB",
+    "text": "Sir M.Vishweshwaraiah Moti Bagh",
+    "Latitude": 28.578504,
+    "Longitude": 77.1735373
+  },
+  {
+    "id": "BKCP",
+    "text": "Bhikaji Cama Place",
+    "Latitude": 28.5703764,
+    "Longitude": 77.1843847
+  },
+  {
+    "id": "SOJI",
+    "text": "Sarojini Nagar",
+    "Latitude": 28.5757221,
+    "Longitude": 77.1955806
+  },
+  {
+    "id": "SOEN",
+    "text": "South Extention",
+    "Latitude": 28.5686386,
+    "Longitude": 77.2180074
+  },
+  {
+    "id": "VNPR",
+    "text": "Vinobapuri",
+    "Latitude": 28.5655297,
+    "Longitude": 77.2485991
+  },
+  {
+    "id": "AHRM",
+    "text": "Ashram",
+    "Latitude": 28.5727649,
+    "Longitude": 77.258494
+  },
+  {
+    "id": "NIZM",
+    "text": "Sarai Kale Khan Nizamuddin",
+    "Latitude": 28.58936,
+    "Longitude": 77.2549413
+  },
+  {
+    "id": "MVPO",
+    "text": "Mayur Vihar Pocket-1",
+    "Latitude": 28.6057944,
+    "Longitude": 77.2965148
+  },
+  {
+    "id": "TKPR",
+    "text": "Trilokpuri-Sanjay Lake",
+    "Latitude": 28.6134317,
+    "Longitude": 77.3077957
+  },
+  {
+    "id": "VENT",
+    "text": "East Vinod Nagar-Mayur Vihar -II",
+    "Latitude": 28.620363,
+    "Longitude": 77.3023292
+  },
+  {
+    "id": "VNNR",
+    "text": "Mandawali West Vinod Nagar",
+    "Latitude": 28.624877,
+    "Longitude": 77.3021833
+  },
+  {
+    "id": "IPE",
+    "text": "IP Extension",
+    "Latitude": 28.6319356,
+    "Longitude": 77.3085679
+  },
+  {
+    "id": "KKDC",
+    "text": "Karkarduma Court",
+    "Latitude": 28.6450398,
+    "Longitude": 77.3042615
+  },
+  {
+    "id": "KHNA",
+    "text": "Krishna Nagar",
+    "Latitude": 28.6575316,
+    "Longitude": 77.2885172
+  },
+  {
+    "id": "EANR",
+    "text": "East Azad Nagar",
+    "Latitude": 28.66479,
+    "Longitude": 77.2826113
+  },
+  {
+    "id": "JFRB",
+    "text": "Jafrabad",
+    "Latitude": 28.6827585,
+    "Longitude": 77.2725587
+  },
+  {
+    "id": "MUPR",
+    "text": "Maujpur-Babarpur",
+    "Latitude": 28.6921031,
+    "Longitude": 77.2774233
+  },
+  {
+    "id": "GKPR",
+    "text": "Gokulpuri",
+    "Latitude": 28.7025224,
+    "Longitude": 77.2861548
+  },
+  {
+    "id": "JIEE",
+    "text": "Johri Enclave",
+    "Latitude": 28.714627,
+    "Longitude": 77.2866533
+  },
+  {
+    "id": "SVVR",
+    "text": "Shiv Vihar",
+    "Latitude": 28.7215468,
+    "Longitude": 77.2883255
+  },
+  {
+    "id": "DBMR",
+    "text": "Dabri Mor- Janakpuri South",
+    "Latitude": 28.6155363,
+    "Longitude": 77.0825158
+  },
+  {
+    "id": "DSHP",
+    "text": "Dashrathpuri",
+    "Latitude": 28.6024422,
+    "Longitude": 77.0803213
+  },
+  {
+    "id": "PALM",
+    "text": "Palam",
+    "Latitude": 28.5889555,
+    "Longitude": 77.0806434
+  },
+  {
+    "id": "SABR",
+    "text": "Sadar Bazar Cantonment",
+    "Latitude": 28.5764632,
+    "Longitude": 77.1114814
+  },
+  {
+    "id": "IGDA",
+    "text": "Terminal-1 IGI Airport",
+    "Latitude": 28.5647538,
+    "Longitude": 77.1221478
+  },
+  {
+    "id": "SKVR",
+    "text": "Shankar Vihar",
+    "Latitude": 28.5608173,
+    "Longitude": 77.1381563
+  },
+  {
+    "id": "VTVR",
+    "text": "Vasant Vihar",
+    "Latitude": 28.5581039,
+    "Longitude": 77.1603043
+  },
+  {
+    "id": "MIRK",
+    "text": "Munirka",
+    "Latitude": 28.5567549,
+    "Longitude": 77.1719806
+  },
+  {
+    "id": "RKPM",
+    "text": "R K Puram",
+    "Latitude": 28.5503497,
+    "Longitude": 77.1851486
+  },
+  {
+    "id": "IIT",
+    "text": "IIT",
+    "Latitude": 28.547199,
+    "Longitude": 77.1916283
+  },
+  {
+    "id": "PSPK",
+    "text": "Panchsheel Park",
+    "Latitude": 28.5422964,
+    "Longitude": 77.2185052
+  },
+  {
+    "id": "CDLI",
+    "text": "Chirag Delhi",
+    "Latitude": 28.5410031,
+    "Longitude": 77.2304831
+  },
+  {
+    "id": "GKEI",
+    "text": "Greater Kailash",
+    "Latitude": 28.5430994,
+    "Longitude": 77.2410711
+  },
+  {
+    "id": "NUEE",
+    "text": "Nehru Enclave",
+    "Latitude": 28.5458514,
+    "Longitude": 77.251167
+  },
+  {
+    "id": "OKNS",
+    "text": "Okhla NSIC",
+    "Latitude": 28.5544365,
+    "Longitude": 77.2648578
+  },
+  {
+    "id": "IWNR",
+    "text": "Sukhdev Vihar",
+    "Latitude": 28.5596435,
+    "Longitude": 77.2733625
+  },
+  {
+    "id": "JANR",
+    "text": "Jamia Millia Islamia",
+    "Latitude": 28.5627144,
+    "Longitude": 77.2857862
+  },
+  {
+    "id": "OVA",
+    "text": "Okhla Vihar",
+    "Latitude": 28.5614626,
+    "Longitude": 77.2919823
+  },
+  {
+    "id": "JLA8",
+    "text": "Jasola Vihar Shaheen Bagh",
+    "Latitude": 28.5462285,
+    "Longitude": 77.2943212
+  },
+  {
+    "id": "KIKJ",
+    "text": "Kalindi Kunj",
+    "Latitude": 28.543,
+    "Longitude": 77.30968
+  },
+  {
+    "id": "OKBS",
+    "text": "Okhla Bird Sanctuary",
+    "Latitude": 28.5530441,
+    "Longitude": 77.3201621
+  },
+  {
+    "id": "NNGI",
+    "text": "Nangli",
+    "Latitude": 28.6174019,
+    "Longitude": 77.0083739
+  },
+  {
+    "id": "NFGH",
+    "text": "Najafgarh",
+    "Latitude": 28.6126772,
+    "Longitude": 76.984354
+  },
+  {
+    "id": "DNBT",
+    "text": "Dhansa Bus Stand",
+    "Latitude": 28.6118577,
+    "Longitude": 76.9754261
+  },
+  {
+    "id": "DKV",
+    "text": "Dhaula Kuan",
+    "Latitude": 28.5921119,
+    "Longitude": 77.1615398
+  },
+  {
+    "id": "SJSU",
+    "text": "Shivaji Stadium",
+    "Latitude": 28.6287699,
+    "Longitude": 77.2114121
+  },
+  {
+    "id": "DACY",
+    "text": "Delhi Aerocity",
+    "Latitude": 28.548032,
+    "Longitude": 77.1182363
+  },
+  {
+    "id": "APOT",
+    "text": "Airport(T-3)",
+    "Latitude": 28.5573141,
+    "Longitude": 77.0869171
+  },
+  {
+    "id": "IICC",
+    "text": "Yashobhoomi Dwarka Sector - 25",
+    "Latitude": 28.550816,
+    "Longitude": 77.045253
+  },
+  {
+    "id": "DL2",
+    "text": "Phase-2",
+    "Latitude": 28.4873,
+    "Longitude": 77.0931
+  },
+  {
+    "id": "BEL",
+    "text": "Belvedere Towers",
+    "Latitude": 28.4923,
+    "Longitude": 77.0884
+  },
+  {
+    "id": "GAT",
+    "text": "Cyber City",
+    "Latitude": 28.4977,
+    "Longitude": 77.0894
+  },
+  {
+    "id": "MAL",
+    "text": "Moulsari Avenue",
+    "Latitude": 28.4997,
+    "Longitude": 77.0939
+  },
+  {
+    "id": "DL3",
+    "text": "Phase-3",
+    "Latitude": 28.4925,
+    "Longitude": 77.0919
+  },
+  {
+    "id": "PH1",
+    "text": "Phase-1",
+    "Latitude": 28.4706,
+    "Longitude": 77.0932
+  },
+  {
+    "id": "SUL",
+    "text": "Sector 42-43",
+    "Latitude": 28.4574,
+    "Longitude": 77.0947
+  },
+  {
+    "id": "S53",
+    "text": "Sector 53-54",
+    "Latitude": 28.4464,
+    "Longitude": 77.0982
+  },
+  {
+    "id": "AIT",
+    "text": "Sector 54 Chowk",
+    "Latitude": 28.431,
+    "Longitude": 77.1028
+  },
+  {
+    "id": "S55",
+    "text": "Sector 55-56",
+    "Latitude": 28.4234,
+    "Longitude": 77.1052
+  },
+  {
+    "id": "KPEX",
+    "text": "Krishna Park Extension",
+    "Latitude": 28.6412,
+    "Longitude": 77.0739
+  },
+  {
+    "id": "YMVR",
+    "text": "Yamuna Vihar",
+    "Latitude": 28.7006,
+    "Longitude": 77.2798
+  },
+  {
+    "id": "BJNP",
+    "text": "Bhajanpura",
+    "Latitude": 28.7021,
+    "Longitude": 77.2692
+  },
+  {
+    "id": "KJKH",
+    "text": "Khajuri Khas",
+    "Latitude": 28.7044,
+    "Longitude": 77.2583
+  },
+  {
+    "id": "SGHT",
+    "text": "Soorghat",
+    "Latitude": 28.7162,
+    "Longitude": 77.2491
+  },
+  {
+    "id": "SNVR",
+    "text": "Sonia Vihar",
+    "Latitude": 28.7245,
+    "Longitude": 77.2404
+  },
+  {
+    "id": "JGTV",
+    "text": "Jagatpur Village",
+    "Latitude": 28.7352,
+    "Longitude": 77.2277
+  },
+  {
+    "id": "JRMA",
+    "text": "Jharoda Majra",
+    "Latitude": 28.7366,
+    "Longitude": 77.2132
+  },
+  {
+    "id": "BURI",
+    "text": "Burari",
+    "Latitude": 28.7333,
+    "Longitude": 77.2011
+  }
+]
